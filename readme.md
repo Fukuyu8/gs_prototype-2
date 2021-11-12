@@ -11,7 +11,7 @@
 ・現在地の地図とアイコンを表示（map）
 ・mapをAPIで表示(map.html)
 ・お店側のHTMLとクリックイベントの完成
-・firebaseか、授業でしたphpのmyadmin（データベースになるのか）を使ってログインを実行
+・firebaseか、授業でしたphpのmyadmin（データベース??）を使ってログインを実行
 ・phpのデータ保存と
 
 
